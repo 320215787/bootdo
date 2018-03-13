@@ -1,0 +1,8 @@
+2018-03-09 22:21:13 -Starting BootdoApplication on HUSHUANG with PID 14428 (E:\WORKSPACE\bootdo\bootdo\target\classes started by 32021 in E:\WORKSPACE\bootdo\bootdo)
+2018-03-09 22:21:13 -Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2018-03-09 22:21:13 -The following profiles are active: dev
+2018-03-09 22:21:22 -ApplicationContext registed-->org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2ea41516: startup date [Fri Mar 09 22:21:13 CST 2018]; root of context hierarchy
+2018-03-09 22:21:28 -==>  Preparing: select `id`,`cron_expression`,`method_name`,`is_concurrent`,`description`,`update_by`,`bean_class`,`create_date`,`job_status`,`job_group`,`update_date`,`create_by`,`spring_bean`,`job_name` from sys_task order by id desc 
+2018-03-09 22:21:28 -==> Parameters: 
+2018-03-09 22:21:28 -<==      Total: 1
+2018-03-09 22:21:28 -Started BootdoApplication in 15.935 seconds (JVM running for 16.479)
